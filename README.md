@@ -10,7 +10,7 @@ Repository with all the code for the MLOps module of aidl-2027-winter-mlops.
 
 If you have issues with installing dependencies in your computer, you can always open this repository from Ona by clicking this button:
 
-[![Open in Ona](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/upcschool-ai/ICS-2026/)
+[![Open in Ona](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/upcschool-ai/aidl-2027-winter-mlops/)
 
 You'll have to log onto Ona, which you can do using your Github account (clicking on Login with Github).
 
